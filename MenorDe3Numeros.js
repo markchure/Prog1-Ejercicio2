@@ -1,3 +1,4 @@
+//Ingresar 3 valores enteros y mostrar el menor de ellos. Ej. si se lee: 1, -3, 5, mostrar: -3
 var num1 = parseInt(prompt("Ingrese el primer número"));
 var num2 = parseInt(prompt("Ingrese el segundo número"));
 var num3 = parseInt(prompt("Ingrese el tercer número"));
